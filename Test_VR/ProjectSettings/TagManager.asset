@@ -7,11 +7,12 @@ TagManager:
   - Meteor
   - Left Hand
   - Right Hand
+  - Enargy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - poke
   - Water
   - UI
   - 
